@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="25">
+      <Unit0>
+        <Filename Value="BuildHtml_linux.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="BuildHtml_linux"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="2"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="203"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="buildhtmlunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="buildhtmlunit"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1106"/>
+        <CursorPos X="26" Y="1116"/>
+        <UsageCount Value="203"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="jqlayout.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="jqlayout"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="10"/>
+        <CursorPos X="44" Y="141"/>
+        <UsageCount Value="201"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="jqbase.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="JQBase"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="121"/>
+        <CursorPos X="7" Y="145"/>
+        <UsageCount Value="218"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="cvelement.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="cvelement"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="18"/>
+        <CursorPos X="19" Y="23"/>
+        <UsageCount Value="205"/>
+        <Bookmarks Count="3">
+          <Item0 X="5" Y="2212" ID="3"/>
+          <Item1 X="20" Y="100" ID="2"/>
+          <Item2 X="28" Y="885" ID="1"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="htmltemplate.pas"/>
+        <UnitName Value="HtmlTemplate"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="113"/>
+        <CursorPos X="3" Y="116"/>
+        <UsageCount Value="124"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="jqtab.pas"/>
+        <UnitName Value="JQTab"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="3"/>
+        <CursorPos X="13" Y="19"/>
+        <UsageCount Value="67"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="jqform.pas"/>
+        <UnitName Value="JQForm"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="315"/>
+        <CursorPos X="3" Y="325"/>
+        <UsageCount Value="65"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="jqgrid.pas"/>
+        <UnitName Value="JQGrid"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="3"/>
+        <CursorPos X="12" Y="17"/>
+        <UsageCount Value="18"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="..\www\main.pas"/>
+        <ComponentName Value="mainform"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <UnitName Value="main"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1905"/>
+        <CursorPos X="23" Y="1906"/>
+        <UsageCount Value="112"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="..\www\html\ypeflist.html"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="74"/>
+        <DefaultSyntaxHighlighter Value="HTML"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="E:\sw\laz_components\webdesign_20100312\webdesign\webdesign\extrahtmlelements.pp"/>
+        <UnitName Value="ExtraHTMLElements"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="22"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="66"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="E:\sw\laz_components\webdesign_20100312\webdesign\webdesign\fphtmlcomp.pp"/>
+        <UnitName Value="fphtmlcomp"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="134"/>
+        <CursorPos X="3" Y="134"/>
+        <UsageCount Value="48"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="C:\develop\fpc\packages\fcl-xml\src\htmlwriter.pp"/>
+        <UnitName Value="htmlwriter"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="29"/>
+        <CursorPos X="3" Y="29"/>
+        <UsageCount Value="48"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="C:\develop\fpc\packages\fcl-xml\src\htmlelements.pp"/>
+        <UnitName Value="htmlelements"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="322"/>
+        <CursorPos X="30" Y="323"/>
+        <UsageCount Value="48"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="C:\develop\fpc\packages\fcl-xml\src\dom.pp"/>
+        <UnitName Value="DOM"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="139"/>
+        <CursorPos X="3" Y="196"/>
+        <UsageCount Value="48"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="C:\develop\fpc\packages\fcl-xml\src\tagsintf.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="225"/>
+        <CursorPos X="20" Y="239"/>
+        <UsageCount Value="48"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="C:\develop\fpc\packages\fcl-xml\src\tagsimpl.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="407"/>
+        <CursorPos X="3" Y="409"/>
+        <UsageCount Value="48"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="C:\develop\fpc\packages\fcl-xml\src\htmldefs.pp"/>
+        <UnitName Value="HTMLDefs"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="91"/>
+        <CursorPos X="3" Y="103"/>
+        <UsageCount Value="48"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="jqdialog.pas"/>
+        <UnitName Value="jqDialog"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="98"/>
+        <CursorPos X="3" Y="100"/>
+        <UsageCount Value="11"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="baselist.pas"/>
+        <UnitName Value="BaseList"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="3" Y="42"/>
+        <UsageCount Value="11"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="mainjquif.pas"/>
+        <HasResources Value="True"/>
+        <UnitName Value="mainJqUIF"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="22" Y="1"/>
+        <UsageCount Value="10"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="..\..\..\..\var\www\test.html"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="14" Y="11"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="HTML"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="..\www\main (MSIU100's conflicted copy 2013-03-05).pas"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="10"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="..\ΜΑΜΑ-ΟΙΛ.txt"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="2"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit24>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="29" HistoryIndex="28">
+      <Position1>
+        <Filename Value="buildhtmlunit.pas"/>
+        <Caret Line="1068" Column="21" TopLine="1056"/>
+      </Position1>
+      <Position2>
+        <Filename Value="cvelement.pas"/>
+        <Caret Line="672" Column="44" TopLine="661"/>
+      </Position2>
+      <Position3>
+        <Filename Value="buildhtmlunit.pas"/>
+        <Caret Line="1086" Column="34" TopLine="1048"/>
+      </Position3>
+      <Position4>
+        <Filename Value="buildhtmlunit.pas"/>
+        <Caret Line="1088" Column="34" TopLine="1072"/>
+      </Position4>
+      <Position5>
+        <Filename Value="buildhtmlunit.pas"/>
+        <Caret Line="1117" Column="3" TopLine="1105"/>
+      </Position5>
+      <Position6>
+        <Filename Value="cvelement.pas"/>
+        <Caret Line="37" Column="51" TopLine="28"/>
+      </Position6>
+      <Position7>
+        <Filename Value="cvelement.pas"/>
+        <Caret Line="38" Column="27" TopLine="29"/>
+      </Position7>
+      <Position8>
+        <Filename Value="buildhtmlunit.pas"/>
+        <Caret Line="1118" Column="12" TopLine="1105"/>
+      </Position8>
+      <Position9>
+        <Filename Value="cvelement.pas"/>
+        <Caret Line="39" Column="25" TopLine="31"/>
+      </Position9>
+      <Position10>
+        <Filename Value="buildhtmlunit.pas"/>
+        <Caret Line="1122" Column="25" TopLine="1114"/>
+      </Position10>
+      <Position11>
+        <Filename Value="cvelement.pas"/>
+        <Caret Line="41" Column="24" TopLine="26"/>
+      </Position11>
+      <Position12>
+        <Filename Value="cvelement.pas"/>
+        <Caret Line="906" Column="8" TopLine="895"/>
+      </Position12>
+      <Position13>
+        <Filename Value="cvelement.pas"/>
+        <Caret Line="43" Column="54" TopLine="32"/>
+      </Position13>
+      <Position14>
+        <Filename Value="cvelement.pas"/>
+        <Caret Line="41" Column="27" TopLine="33"/>
+      </Position14>
+      <Position15>
+        <Filename Value="cvelement.pas"/>
+        <Caret Line="904" Column="22" TopLine="896"/>
+      </Position15>
+      <Position16>
+        <Filename Value="cvelement.pas"/>
+        <Caret Line="886" Column="13" TopLine="877"/>
+      </Position16>
+      <Position17>
+        <Filename Value="cvelement.pas"/>
+        <Caret Line="31" Column="5" TopLine="22"/>
+      </Position17>
+      <Position18>
+        <Filename Value="cvelement.pas"/>
+        <Caret Line="16" Column="3" TopLine="7"/>
+      </Position18>
+      <Position19>
+        <Filename Value="cvelement.pas"/>
+        <Caret Line="38" Column="32" TopLine="31"/>
+      </Position19>
+      <Position20>
+        <Filename Value="buildhtmlunit.pas"/>
+        <Caret Line="1130" Column="27" TopLine="1118"/>
+      </Position20>
+      <Position21>
+        <Filename Value="buildhtmlunit.pas"/>
+        <Caret Line="1117" Column="26" TopLine="1073"/>
+      </Position21>
+      <Position22>
+        <Filename Value="cvelement.pas"/>
+        <Caret Line="934" Column="36" TopLine="927"/>
+      </Position22>
+      <Position23>
+        <Filename Value="cvelement.pas"/>
+        <Caret Line="2161" Column="39" TopLine="2148"/>
+      </Position23>
+      <Position24>
+        <Filename Value="buildhtmlunit.pas"/>
+        <Caret Line="1117" Column="26" TopLine="1073"/>
+      </Position24>
+      <Position25>
+        <Filename Value="cvelement.pas"/>
+        <Caret Line="46" Column="59" TopLine="38"/>
+      </Position25>
+      <Position26>
+        <Filename Value="buildhtmlunit.pas"/>
+        <Caret Line="1117" Column="26" TopLine="1007"/>
+      </Position26>
+      <Position27>
+        <Filename Value="cvelement.pas"/>
+        <Caret Line="940" Column="33" TopLine="932"/>
+      </Position27>
+      <Position28>
+        <Filename Value="cvelement.pas"/>
+        <Caret Line="46" Column="59" TopLine="37"/>
+      </Position28>
+      <Position29>
+        <Filename Value="cvelement.pas"/>
+        <Caret Line="23" Column="12" TopLine="16"/>
+      </Position29>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="13">
+      <Item1>
+        <Expression Value="self.classatr"/>
+      </Item1>
+      <Item2>
+        <Expression Value="self.tag"/>
+      </Item2>
+      <Item3>
+        <Expression Value="content"/>
+      </Item3>
+      <Item4>
+        <Expression Value="i"/>
+      </Item4>
+      <Item5>
+        <Expression Value="mergedtag"/>
+      </Item5>
+      <Item6>
+        <Expression Value="s"/>
+      </Item6>
+      <Item7>
+        <Expression Value="space"/>
+      </Item7>
+      <Item8>
+        <Expression Value="tag"/>
+      </Item8>
+      <Item9>
+        <Expression Value="parent.tag"/>
+      </Item9>
+      <Item10>
+        <Expression Value="onespace"/>
+      </Item10>
+      <Item11>
+        <Expression Value="l0.flevel"/>
+      </Item11>
+      <Item12>
+        <Expression Value="l0.north.flevel"/>
+      </Item12>
+      <Item13>
+        <Expression Value="body.parent"/>
+      </Item13>
+    </Watches>
+  </Debugging>
+  <EditorMacros Count="0"/>
+</CONFIG>
