@@ -6,7 +6,7 @@ a pascal library for generating html pages
 The project BuildHtml contains some examples showing how
 to use the library.
 Here is a small snippet:
-    pascal
+```pascal
 var
   test: THtml;
 
@@ -25,6 +25,7 @@ begin
 
   writeln( test.html);
   test.Free;
-end;      
+end;
+```
       
 This is a hobby project. So don't expect a lot of commits.
