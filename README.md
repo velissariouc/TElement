@@ -31,5 +31,4 @@ end;
 This is a hobby project. So don't expect a lot of commits.
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/velissariouc/telement/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
